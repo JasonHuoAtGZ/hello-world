@@ -1,2 +1,5 @@
 # hello-world
-JasonHuo's first project
+Hi There,
+
+This is JasonHuo's first project.
+Have fun !!!!
